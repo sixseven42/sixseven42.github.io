@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qi Liu"
-  avatar           : "profile.png"
+  avatar           : "liuqi.jpg"
   bio              : "Liu Qi is a Ph.D. candidate in Solid Earth Geophysics at Peking University, supervised by Prof. Jianwei Ma. His research bridges AI and exploration geophysics, with contributions to diffusion-model-based seismic interpolation under sparse acquisition and foundation-model-enabled seismic first-arrival picking and offshore interference-noise suppression. He has published two papers in Geophysics (including one Web of Science Highly Cited Paper) and serves as a reviewer for leading journals including IEEE Transactions on Geoscience and Remote Sensing."
   location         : "Peking University, Beijing. China"
   employer         :
