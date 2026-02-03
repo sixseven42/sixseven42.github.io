@@ -10,7 +10,7 @@ locale                   : "China-PKU"
 title                    : "Qi Liu"
 title_separator          : "-"
 name                     : "Qi Liu"
-description              : "A student majored in geophysics in Peking University"
+description              : "Liu Qi is a Ph.D. candidate in Solid Earth Geophysics at Peking University, supervised by Prof. Jianwei Ma. His research bridges AI and exploration geophysics, with contributions to diffusion-model-based seismic interpolation under sparse acquisition and foundation-model-enabled seismic first-arrival picking and offshore interference-noise suppression. He has published two papers in Geophysics (including one Web of Science Highly Cited Paper) and serves as a reviewer for leading journals including IEEE Transactions on Geoscience and Remote Sensing."
 url                      : https://sixseven42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qi Liu"
   avatar           : "profile.png"
-  bio              : "A student majored in geophysics in Peking University"
+  bio              : "Liu Qi is a Ph.D. candidate in Solid Earth Geophysics at Peking University, supervised by Prof. Jianwei Ma. His research bridges AI and exploration geophysics, with contributions to diffusion-model-based seismic interpolation under sparse acquisition and foundation-model-enabled seismic first-arrival picking and offshore interference-noise suppression. He has published two papers in Geophysics (including one Web of Science Highly Cited Paper) and serves as a reviewer for leading journals including IEEE Transactions on Geoscience and Remote Sensing."
   location         : "Peking University, Beijing. China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "1800012455@pku.edu.cn"
+  email            : "2201110624@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
